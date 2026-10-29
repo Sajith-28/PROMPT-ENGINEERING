@@ -337,3 +337,5 @@ PDF Export: Embed fonts, verify images and links, compress if needed, name file 
 <img width="511" height="2440" alt="deepseek_mermaid_20261029_e165a2" src="https://github.com/user-attachments/assets/f2dfd352-886d-445a-8ba7-28945adbf126" />
 
 # Result
+The fundamentals, architectures, and applications of Generative AI and LLMs were studied and understood.  
+The impact of scaling on LLM performance, computational requirements, and limitations was analyzed.
